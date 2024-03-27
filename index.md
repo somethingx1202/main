@@ -12,30 +12,12 @@ Hello mate! I am a Postdoc at the King's College London. I obtained my PhD degre
 - J. Wang, L. Zhu, A. Bhalerao and Y. He. [Scene Graph Aided Radiology Report Generation](https://arxiv.org/pdf/2403.05687.pdf). Under Review.
 - J. Wang, L. Zhu, A. Bhalerao and Y. He. [Can Prompt Learning Benefit Radiology Report Generation?](https://arxiv.org/pdf/2308.16269.pdf) Under Review.
 
+<ins>Vaccination Attitude Detection and Social Media Analysis</ins>
+
+- L. Zhu, R. Zhao, G. Pergola and Y. He. [Disentangling Aspect and Stance via a Siamese Autoencoder for Aspect Clustering of Vaccination Opinions](https://aclanthology.org/2023.findings-acl.115.pdf). Findings of ACL, 2023.
+- L. Zhu, Z. Fang, G. Pergola, R. Procter and Y. He. [Disentangled Learning of Stance and Aspect Topics for Vaccine Attitude Detection in Social Media](https://arxiv.org/pdf/2205.03296.pdf). NAACL, 2022.
+
 ## Honors and Awards
 
 * aa
 * aa
-<!-- 
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum -->
