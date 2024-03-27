@@ -7,10 +7,10 @@ Hello mate! I am a Postdoc at the King's College London. I obtained my PhD degre
 
 ## Publications
 
-<ins>aaaa</ins>
+<ins>Radiology Report Generation and Disease Recognition</ins>
 
-1. aa
-2. aa
+- J. Wang, L. Zhu, A. Bhalerao and Y. He. [Scene Graph Aided Radiology Report Generation](https://arxiv.org/pdf/2403.05687.pdf). Under Review.
+- J. Wang, L. Zhu, A. Bhalerao and Y. He. [Can Prompt Learning Benefit Radiology Report Generation?](https://arxiv.org/pdf/2308.16269.pdf) Under Review.
 
 ## Honors and Awards
 
