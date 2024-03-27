@@ -1,12 +1,8 @@
----
-layout: default
----
-
 ## About Me
 
 <img class="profile-picture" src="PhotoMe.png">
 
-Hello mate! I am a PostDoc at the King's College London. I obtained my PhD degree in Computer Science from the University of Warwick, focusing on the combination of seq2seq models and dense representation learning. Currently I'm working on the alignment of instruction-tuned models and narrative datasets. I've published more than 10 papers, and served as a reviewer/PC member in over 10 journals/conferences.
+Hello mate! I am a Postdoc at the King's College London. I obtained my PhD degree in Computer Science from the University of Warwick, focusing on the combination of seq2seq models and dense representation learning. Currently I'm working on the alignment of instruction-tuned models and narrative datasets. I've published more than 10 papers, and served as a reviewer/PC member in over 10 journals/conferences.
 
 
 ## Publications
