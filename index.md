@@ -17,7 +17,7 @@ Hello mate! I am a Postdoc at the King's College London. I obtained my PhD degre
 - L. Zhu, R. Zhao, G. Pergola and Y. He. [Disentangling Aspect and Stance via a Siamese Autoencoder for Aspect Clustering of Vaccination Opinions](https://aclanthology.org/2023.findings-acl.115.pdf). Findings of ACL, 2023.
 - L. Zhu, Z. Fang, G. Pergola, R. Procter and Y. He. [Disentangled Learning of Stance and Aspect Topics for Vaccine Attitude Detection in Social Media](https://arxiv.org/pdf/2205.03296.pdf). NAACL, 2022.
 - L. Zhu, G. Pergola, L. Gui, D. Zhou and Y. He. [Topic-Driven and Knowledge-Aware Transformer for Dialogue Emotion Detection](https://arxiv.org/pdf/2106.01071.pdf). ACL, 2021.
-- L. Zhu, Y. He and D. Zhou. [Neural Opinion Dynamics Model for the Prediction of User-Level Stance Dynamics](https://core.ac.uk/download/pdf/199216625.pdf). 57.2, 2020.
+- L. Zhu, Y. He and D. Zhou. [Neural Opinion Dynamics Model for the Prediction of User-Level Stance Dynamics](https://core.ac.uk/download/pdf/199216625.pdf). Information Processing and Management, 57.2, 2020.
 - L. Zhu, Y. He and D. Zhou. [Neural Temporal Opinion Modelling for Opinion Prediction on Twitter](https://arxiv.org/pdf/2005.13486.pdf). ACL Short, 2020.
 - L. Zhu, Y. He and D. Zhou. [Hierarchical Viewpoint Discovery from Tweets Using Bayesian Modelling](https://s3.eu-west-2.amazonaws.com/somethingx86/papers/Hierarchical-viewpoint-discovery-from-tweets-using-Bayesian-modelling-ESWA18.pdf). Expert Systems with Applications, 116:430-438, 2019.
 - R. Zhao, M. A. Catania, L. Zhu, E. Kochkina, L. Gui, A. Zubiaga, R. Procter, M. Liataka and Y. He. [PANACEA: An automated misinformation detection system on COVID-19](https://aclanthology.org/2023.findings-acl.115.pdf). EACL: System Demonstrations, 2023.
