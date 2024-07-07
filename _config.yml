@@ -1,6 +1,6 @@
 title: Researcher
-url: "https://somethingx1202.github.io/main/"
-baseurl: "/researcher"
+url: "https://somethingx1202.github.io"
+baseurl: "/main"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"

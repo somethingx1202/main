@@ -2,11 +2,11 @@
 
 <img class="profile-picture" src="PhotoMe.jpg">
 
-Hello! I am a Postdoc at the King's College London. I obtained my PhD degree in Computer Science from the University of Warwick, focusing on the combination of seq2seq models and dense representation learning ([thesis](https://wrap.warwick.ac.uk/181632/1/WRAP_Theses_Zhu_2023.pdf)). Currently I'm working on the alignment of instruction-tuned models and narrative datasets. I've published more than 10 papers, and served as a reviewer/PC member in over 10 journals/conferences.
+I hold a PhD degree in Computer Science, focusing on the combination of seq2seq models and dense representation learning ([thesis](https://wrap.warwick.ac.uk/181632/1/WRAP_Theses_Zhu_2023.pdf)). Currently I'm working on the alignment of instruction-tuned models and narrative datasets. My broader interest is in aligning NLP models with various datasets.
 
 ## Education
 
-**2019 - 2023** &nbsp;&nbsp;&nbsp;&nbsp; PhD &nbsp;&nbsp;&nbsp;&nbsp; Computer Science &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; University of Warwick
+**2019 - 2023** &nbsp;&nbsp;&nbsp;&nbsp; PhD &nbsp;&nbsp;&nbsp;&nbsp; Computer Science &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; University of Warwick
 
 **2016 - 2019** &nbsp;&nbsp;&nbsp;&nbsp; MSc &nbsp;&nbsp;&nbsp;&nbsp; Computer Science and Techonology &nbsp;&nbsp;&nbsp;&nbsp; Southeast University
 
