@@ -6,7 +6,7 @@ Hello! I am a Postdoc at the King's College London. I obtained my PhD degree in 
 
 ## Education
 
-**2019 - 2023** &nbsp;&nbsp;&nbsp;&nbsp; PhD &nbsp;&nbsp;&nbsp;&nbsp; Computer Science &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; University of Warwick
+**2019 - 2023** &nbsp;&nbsp;&nbsp;&nbsp; PhD &nbsp;&nbsp;&nbsp;&nbsp; Computer Science &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; University of Warwick
 
 **2016 - 2019** &nbsp;&nbsp;&nbsp;&nbsp; MSc &nbsp;&nbsp;&nbsp;&nbsp; Computer Science and Techonology &nbsp;&nbsp;&nbsp;&nbsp; Southeast University
 
