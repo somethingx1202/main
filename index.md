@@ -6,7 +6,7 @@ Hello! I am a Postdoc at the King's College London. I obtained my PhD degree in 
 
 ## Education
 
-#### aaa
+#### 2019 - 2023            PhD in Computer Science          University of Warwick
 > ccc
 
 
