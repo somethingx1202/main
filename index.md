@@ -2,7 +2,7 @@
 
 <img class="profile-picture" src="PhotoMe.jpg">
 
-I hold a PhD degree in Computer Science, focusing on the combination of seq2seq models and dense representation learning ([thesis](https://wrap.warwick.ac.uk/181632/1/WRAP_Theses_Zhu_2023.pdf)). Currently I'm working on the alignment of instruction-tuned models and narrative datasets. My broader interest is in aligning NLP models with various datasets.
+I hold a PhD degree in Computer Science, focusing on the combination of seq2seq models and dense representation learning ([thesis](https://wrap.warwick.ac.uk/181632/1/WRAP_Theses_Zhu_2023.pdf)). Currently I'm working on the alignment of instruction-tuned models and narrative datasets. My broader interest is to align NLP models with various datasets.
 
 ## Education
 
